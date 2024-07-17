@@ -3,7 +3,6 @@ Weather Forecast Web app made using OpenWeatherMap API
 
 The app provides details on the current temperature as well as variables including humidity, wind speed, wind direction, visibility, pressure, sunrise and sunset, and the Air Quality Index and Real Feel.
 
-Visit Website --> [WeatherAppUsingOpenWeatherMapAPI](https://kshitizrohilla.github.io/weather-app-using-openweathermap-api)
 
 ## Configuration
 You must receive an API key in order to use the OpenWeatherMap API. The steps to setup your API key are as follows:
