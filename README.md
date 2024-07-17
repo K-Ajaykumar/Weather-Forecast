@@ -17,4 +17,4 @@ const API_KEY = 'YOUR_API_KEY';
 
 ## Screenshots
 
-![cloudy1](https://github.com/user-attachments/assets/16c9d43e-96ad-4cf9-831d-493a573d2486)
+
