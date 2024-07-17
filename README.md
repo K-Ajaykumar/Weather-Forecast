@@ -18,3 +18,11 @@ const API_KEY = 'YOUR_API_KEY';
 ## Screenshots
 
 
+
+![1](https://github.com/user-attachments/assets/3409118a-3e56-4e95-bf48-98abb3883615)
+
+
+![2](https://github.com/user-attachments/assets/e8fe76f4-4e46-4080-97e9-64cd9a7162fb)
+
+![3](https://github.com/user-attachments/assets/e2cb0acb-4a1d-4a35-a7fd-b33a9cf35d12)
+
